@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TesteFramework.Servicos/1.0.0": {
+        "dependencies": {
+          "TesteFramework.Interface": "1.0.0"
+        },
+        "runtime": {
+          "TesteFramework.Servicos.dll": {}
+        }
+      },
+      "TesteFramework.Interface/1.0.0": {
+        "runtime": {
+          "TesteFramework.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteFramework.Servicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteFramework.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

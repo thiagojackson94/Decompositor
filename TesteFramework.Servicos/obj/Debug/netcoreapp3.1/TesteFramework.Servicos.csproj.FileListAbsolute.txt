@@ -1,0 +1,13 @@
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\bin\Debug\netcoreapp3.1\TesteFramework.Servicos.deps.json
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\bin\Debug\netcoreapp3.1\TesteFramework.Servicos.dll
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\bin\Debug\netcoreapp3.1\TesteFramework.Servicos.pdb
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\bin\Debug\netcoreapp3.1\TesteFramework.Interface.dll
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\bin\Debug\netcoreapp3.1\TesteFramework.Interface.pdb
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\obj\Debug\netcoreapp3.1\TesteFramework.Servicos.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\obj\Debug\netcoreapp3.1\TesteFramework.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\obj\Debug\netcoreapp3.1\TesteFramework.Servicos.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\obj\Debug\netcoreapp3.1\TesteFramework.Servicos.AssemblyInfo.cs
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\obj\Debug\netcoreapp3.1\TesteFramework.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\obj\Debug\netcoreapp3.1\TesteFramework.Servicos.csproj.CopyComplete
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\obj\Debug\netcoreapp3.1\TesteFramework.Servicos.dll
+C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Servicos\obj\Debug\netcoreapp3.1\TesteFramework.Servicos.pdb
