@@ -16,8 +16,8 @@ namespace TesteFramework.Testes
         [Test]
         public void DecomporNum10()
         {
-            var respostaEsperada = "Número de Entrada: 40\r\nDivisores: 1, 2, 4, 5, 8, 10, 20, 40\r\nDivisores Primos: 2, 5\r\n";
-            var resultado = Decompositor.DecomporNumero("40");
+            var respostaEsperada = "Número de Entrada: 10\r\nDivisores: 1, 2, 5, 10\r\nDivisores Primos: 2, 5\r\n";
+            var resultado = Decompositor.DecomporNumero("10");
             Assert.AreEqual(respostaEsperada, resultado);
         }
 
