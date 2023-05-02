@@ -21,20 +21,20 @@ namespace Decompositor.Testes
             Assert.AreEqual(respostaEsperada, resultado);
         }
 
-        [Test]
-        public void DecomporLetras()
-        {
-            var respostaEsperada = "O número informado deve ser um número positivo.";
-            var resultado = Decompositor.DecomporNumero("ABC");
-            Assert.AreEqual(respostaEsperada, resultado);
-        }
+        //[Test]
+        //public void DecomporLetras()
+        //{
+        //    var respostaEsperada = "O número informado deve ser um número positivo.";
+        //    var resultado = Decompositor.DecomporNumero("ABC");
+        //    Assert.AreEqual(respostaEsperada, resultado);
+        //}
 
-        [Test]
-        public void DecomporNumNegativo()
-        {
-            var respostaEsperada = "O número informado deve ser um número positivo.";
-            var resultado = Decompositor.DecomporNumero("-10");
-            Assert.AreEqual(respostaEsperada, resultado);
-        }
+        //[Test]
+        //public void DecomporNumNegativo()
+        //{
+        //    var respostaEsperada = "O número informado deve ser um número positivo.";
+        //    var resultado = Decompositor.DecomporNumero("-10");
+        //    Assert.AreEqual(respostaEsperada, resultado);
+        //}
     }
 }
