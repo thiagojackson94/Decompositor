@@ -1,9 +1,0 @@
-C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Interface\bin\Debug\netcoreapp3.1\TesteFramework.Interface.deps.json
-C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Interface\bin\Debug\netcoreapp3.1\TesteFramework.Interface.dll
-C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Interface\bin\Debug\netcoreapp3.1\TesteFramework.Interface.pdb
-C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Interface\obj\Debug\netcoreapp3.1\TesteFramework.Interface.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Interface\obj\Debug\netcoreapp3.1\TesteFramework.Interface.AssemblyInfoInputs.cache
-C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Interface\obj\Debug\netcoreapp3.1\TesteFramework.Interface.AssemblyInfo.cs
-C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Interface\obj\Debug\netcoreapp3.1\TesteFramework.Interface.csproj.CoreCompileInputs.cache
-C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Interface\obj\Debug\netcoreapp3.1\TesteFramework.Interface.dll
-C:\Users\thiag\Documents\Framework\TesteFramework\TesteFramework.Interface\obj\Debug\netcoreapp3.1\TesteFramework.Interface.pdb
