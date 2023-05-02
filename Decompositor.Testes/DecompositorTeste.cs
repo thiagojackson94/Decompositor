@@ -24,7 +24,7 @@ namespace Decompositor.Testes
         [Test]
         public void DecomporLetras()
         {
-            var respostaEsperada = "O numero informado deve ser um número positivo.";
+            var respostaEsperada = "O numero informado deve ser um numero positivo.";
             var resultado = Decompositor.DecomporNumero("ABC");
             Assert.AreEqual(respostaEsperada, resultado);
         }
@@ -32,7 +32,7 @@ namespace Decompositor.Testes
         [Test]
         public void DecomporNumNegativo()
         {
-            var respostaEsperada = "O numero informado deve ser um número positivo.";
+            var respostaEsperada = "O numero informado deve ser um numero positivo.";
             var resultado = Decompositor.DecomporNumero("-10");
             Assert.AreEqual(respostaEsperada, resultado);
         }
