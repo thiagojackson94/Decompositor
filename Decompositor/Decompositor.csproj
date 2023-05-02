@@ -3,10 +3,28 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <PackageId>DecompositorExtension</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Thiago Jackson</Authors>
+    <Company>Tjrs</Company>
+    <PackageDescription>Extension to return the number decompositors</PackageDescription>
+    <Description>Extension to return the number decompositors</Description>
+    <RepositoryUrl>https://github.com/thiagojackson94/Decompositor</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/thiagojackson94/Decompositor</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>number;int;decompositor</PackageTags>
+    <Title>DecompositorExtension</Title>
+    <Summary>Extension to return the number decompositors</Summary>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Decompositor.Servicos\Decompositor.Servicos.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 </Project>
