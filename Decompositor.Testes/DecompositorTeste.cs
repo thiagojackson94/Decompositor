@@ -16,7 +16,7 @@ namespace Decompositor.Testes
         [Test]
         public void DecomporNum10()
         {
-            var respostaEsperada = "Número de Entrada: 10\nDivisores: 1, 2, 5, 10\nDivisores Primos: 2, 5\n";
+            var respostaEsperada = "Numero de Entrada: 10\nDivisores: 1, 2, 5, 10\nDivisores Primos: 2, 5\n";
             var resultado = Decompositor.DecomporNumero("10");
             Assert.AreEqual(respostaEsperada, resultado);
         }
@@ -24,7 +24,7 @@ namespace Decompositor.Testes
         [Test]
         public void DecomporLetras()
         {
-            var respostaEsperada = "O número informado deve ser um número positivo.";
+            var respostaEsperada = "O numero informado deve ser um número positivo.";
             var resultado = Decompositor.DecomporNumero("ABC");
             Assert.AreEqual(respostaEsperada, resultado);
         }
@@ -32,7 +32,7 @@ namespace Decompositor.Testes
         [Test]
         public void DecomporNumNegativo()
         {
-            var respostaEsperada = "O número informado deve ser um número positivo.";
+            var respostaEsperada = "O numero informado deve ser um número positivo.";
             var resultado = Decompositor.DecomporNumero("-10");
             Assert.AreEqual(respostaEsperada, resultado);
         }

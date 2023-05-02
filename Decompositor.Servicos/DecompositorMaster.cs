@@ -21,7 +21,7 @@ namespace Decompositor.Servicos
         {
             if (!ValidaNumEntrada(numEntrada))
             {
-                return ("O número informado deve ser um número positivo.");
+                return ("O numero informado deve ser um número positivo.");
             }
 
             var numEntradaConvertido = Convert.ToInt32(numEntrada);
@@ -29,9 +29,9 @@ namespace Decompositor.Servicos
             var divisorePrimos = _numerosPrimosServico.ObterDivisoresPrimos(divisores);
 
             var builder = new StringBuilder();
-            builder.AppendLine("Número de Entrada: " + numEntrada);
+            builder.AppendLine("Numero de Entrada: " + numEntrada);
             builder.AppendLine("Divisores: " + string.Join(", ", divisores.ToArray()));
-            builder.AppendLine(divisorePrimos.Any() ? "Divisores Primos: " + string.Join(", ", divisorePrimos.ToArray()) : "O número " + numEntrada + " não possui divisores primos");
+            builder.AppendLine(divisorePrimos.Any() ? "Divisores Primos: " + string.Join(", ", divisorePrimos.ToArray()) : "O numero " + numEntrada + " não possui divisores primos");
 
             return builder.ToString();
         }
