@@ -21,7 +21,7 @@ namespace Decompositor.Servicos
         {
             if (!ValidaNumEntrada(numEntrada))
             {
-                return ("O numero informado deve ser um número positivo.");
+                return ("O numero informado deve ser um numero positivo.");
             }
 
             var numEntradaConvertido = Convert.ToInt32(numEntrada);
