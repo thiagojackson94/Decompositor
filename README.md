@@ -1,6 +1,4 @@
-TESTE FRAMEWORK
-
-Teste técnico FRAMEWORK.
+Decompositor
 
 Sistema capaz de decompor um número em todos os seus divisores, enumerando também aqueles que forem primos.
 O sistema pode ser acessado pelo console ou pela API através do Swagger.
