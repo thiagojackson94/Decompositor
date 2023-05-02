@@ -20,7 +20,7 @@ namespace Decompositor
                 Console.WriteLine(resposta);
                 //Console.ReadKey();
 
-                Console.WriteLine("Deseja continuar? (S - continuar N - para sair)");
+                Console.WriteLine("Deseja continuar? (S - continuar N - para sair) ");
                 sair = Console.ReadLine();
             }
 
