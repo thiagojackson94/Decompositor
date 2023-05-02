@@ -15,7 +15,7 @@ namespace Decompositor
             while (!sair.ToLower().Equals("n"))
             {
 
-                Console.WriteLine("Digite um número a decompor:");
+                Console.WriteLine("Digite um número para decompor:");
                 var resposta = decompositor.DecomporNumero(Console.ReadLine());
                 Console.WriteLine(resposta);
                 //Console.ReadKey();
