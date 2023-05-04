@@ -22,6 +22,8 @@ namespace Decompositor
 
                 Console.WriteLine("Deseja continuar? (S - continuar N - para sair) ");
                 sair = Console.ReadLine();
+
+
             }
 
         }
